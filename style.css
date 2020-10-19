@@ -39,7 +39,7 @@ left: 200px;
 top: 300px;}
 .mountain{ max-width :100%;}
 
-@media screen and ( ) max-width (768px) {.upper-cloud{max-width :100%;
+@media screen and ( max-width 768px)  {.upper-cloud{max-width :100%;
     right: 200px;
 top: 0px;}
 
