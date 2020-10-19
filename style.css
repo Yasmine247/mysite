@@ -39,14 +39,14 @@ left: 200px;
 top: 300px;}
 .mountain{ min-width :100%;}
 
-@media only screen and ( min-width 768px)  {.upper-cloud{min-width :100%;
-    right: 200px;
-top: 0px;}
+@media only screen and ( min-width 768px)  {.upper-cloud{width :auto;
+    position: absolute;
+}
 
-.bottom-cloud{ min-width :100%;
-left: 200px;
-top: 300px;}
-	.mountain{ min-width :100%;}
+.bottom-cloud{ width :auto;
+position: absolute;
+}
+.mountain{ width :auto;}
 }
 
 .profilepic {
