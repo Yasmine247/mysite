@@ -1,0 +1,114 @@
+
+
+body {text-align: center;
+margin: auto;
+font-family: 'Merriweather', serif;
+color:#240041;
+
+}
+
+.top-container{
+    padding-top: 200px;
+    position: relative;
+    background-color:#f3e1e1;}
+
+
+h1{top: 100px;
+    
+    margin: auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 500%;
+    color: #b80d57;
+   
+}
+
+ h2{font-family: 'Montserrat', sans-serif;
+    color: #b80d57;
+    
+}
+ h3{font-family: 'Montserrat', sans-serif;
+    color: #b80d57;}
+
+
+.upper-cloud{position: absolute;
+    right: 200px;
+top: 0px;}
+
+.bottom-cloud{ position: absolute;
+left: 200px;
+top: 300px;}
+
+.profilepic {
+    border-radius: 50%;
+    width: 20%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+  }
+.skill-row{width: 50%;
+    margin:50px auto 50px auto;
+    text-align: left;
+    line-height: 2;}
+
+.skills-img{width: 25%;
+float: left;
+margin-right: 30px;}
+.skills{padding-top: 30px;}
+.education-img{width: 30%;
+float:right;
+margin-left: 30px;
+padding-top: 50px;}
+    
+
+.middle-container{
+background-color: white;
+padding-top: 100px;
+padding-bottom: 100px;}
+
+.bottom-container{background-color:#f3e1e1;
+
+padding :50px 0 20px 0;}
+.footer-link{ color:#6e5773;
+text-decoration: none;
+font-family: 'Merriweather', serif;
+margin :10px 20px;}
+
+.footer-link:hover{ color: #f70776;}
+
+hr{
+    border-color: transparent;
+    border-top-color: gainsboro;
+    border-top-width: 5px;
+    background-color: transparent;
+
+height: 2px;
+width: 10%;
+border-top-style: dotted;
+margin-top: 50px;
+margin-bottom: 50px;}
+
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #fc345c;
+	background-color:#b80d57;
+	border-radius:6px;
+	border:1px solid #b80d57;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Merriweather', serif;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #fc345c;
+}
+.myButton:hover {
+	background-color:#fc345c;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.copyright{ color: #f70776;
+font-size: 0.75rem;
+padding 20px 0;}
