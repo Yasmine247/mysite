@@ -37,7 +37,7 @@ top: 0px;}
 .bottom-cloud{ max-width :100%;
 left: 200px;
 top: 300px;
- background-color:#f3e1e1;}
+}
 
 
 @media only screen and (min-width:768px)  {.upper-cloud{width :auto;
