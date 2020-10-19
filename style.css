@@ -30,14 +30,14 @@ h1{top: 100px;
     color: #b80d57;}
 
 
-.upper-cloud{min-width :100%;
+.upper-cloud{max-width :100%;
     right: 200px;
 top: 0px;}
 
-.bottom-cloud{ min-width :100%;
+.bottom-cloud{ max-width :100%;
 left: 200px;
 top: 300px;}
-.mountain{ min-width :100%;}
+.mountain{ max-width :100%;}
 
 @media only screen and (min-width:768px)  {.upper-cloud{width :auto;
     position: absolute;
