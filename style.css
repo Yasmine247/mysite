@@ -32,12 +32,13 @@ h1{top: 100px;
 
 
 .upper-cloud{max-width :100%;
-    right: 200px;
+right: 200px;
 top: 0px;}
 
 .bottom-cloud{ max-width :100%;
 left: 200px;
-top: 300px;}
+top: 300px;
+ background-color:#f3e1e1;}
 
 
 @media only screen and (min-width:768px)  {.upper-cloud{width :auto;
