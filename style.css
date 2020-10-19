@@ -37,7 +37,7 @@ top: 0px;}
 .bottom-cloud{ max-width :100%;
 left: 200px;
 top: 300px;}
-.mountain{ max-width :100%;}
+
 
 @media only screen and (min-width:768px)  {.upper-cloud{width :auto;
     position: absolute;
@@ -46,7 +46,7 @@ top: 300px;}
 .bottom-cloud{ width :auto;
 position: absolute;
 }
-.mountain{ width :auto;}
+
 }
 
 .profilepic {
